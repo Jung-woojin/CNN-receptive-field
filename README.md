@@ -1,5 +1,9 @@
 # CNN Effective Receptive Field (ERF) 🔍🎯
 
+**작업자**: Jung-woojin (wojin010629@gmail.com)
+
+**최종 수정일**: 2026-04-03
+
 **완전 분석: Effective Receptive Field 이론, 계산, 확장 및 PhD 연구 가이드**
 
 > 🔥 **핵심 통찰**: **Effective Receptive Field (ERF)** 는 이론적 receptive field 와 달리 **실제로 영향력을 행사하는 영역**으로, CNN 의 **실제 감지 능력**을 결정합니다.
@@ -1056,3 +1060,22 @@ class ERFAnalysisPipeline:
 *최종 업데이트: 2026-03-31*  
 *CNN Effective Receptive Field: Complete Analysis for Advanced Research*  
 *Theoretical foundations, practical tools, and PhD research roadmap*
+
+---
+
+## 📧 연락처 및 기여
+
+**작업자**: Jung-woojin  
+**이메일**: wojin010629@gmail.com
+
+**참여 활동**:
+- 이론적 RF 와 ERF 관계 분석 및 시각화
+- Dilated Convolution 을 통한 ERF 확장 전략 연구
+- Deformable Convolution 의 동적 ERF 분석 도구 개발
+- Multi-scale ERF Fusion 전략 개발
+- 주파수 관점 ERF 분석 프레임워크 구축
+- PhD 연구 가이드라인 작성 및 실험 설계 제안
+
+**저작**: 본 저장소의 모든 코드, 분석, 가이드는 Jung-woojin 이 작성하였습니다.
+
+*Last modified: 2026-04-03*
