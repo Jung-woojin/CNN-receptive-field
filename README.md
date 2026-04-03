@@ -1,6 +1,6 @@
 # CNN Effective Receptive Field (ERF) 🔍🎯
 
-**작업자**: Jung-woojin (wojin010629@gmail.com)
+
 
 **최종 수정일**: 2026-04-03
 
