@@ -1046,36 +1046,4 @@ class ERFAnalysisPipeline:
 
 ---
 
-## 📝 License
 
-이 문서는 **박사과정 연구자용 바이블**입니다. 자유로운 연구 및 교육 활용을 환영합니다.
-
-**사용 조건:**
-- 상업적 사용 시 저자에게 연락
-- 연구 결과 시 인용 권장
-- 수정 사항 공유 환영
-
----
-
-*최종 업데이트: 2026-03-31*  
-*CNN Effective Receptive Field: Complete Analysis for Advanced Research*  
-*Theoretical foundations, practical tools, and PhD research roadmap*
-
----
-
-## 📧 연락처 및 기여
-
-**작업자**: Jung-woojin  
-**이메일**: wojin010629@gmail.com
-
-**참여 활동**:
-- 이론적 RF 와 ERF 관계 분석 및 시각화
-- Dilated Convolution 을 통한 ERF 확장 전략 연구
-- Deformable Convolution 의 동적 ERF 분석 도구 개발
-- Multi-scale ERF Fusion 전략 개발
-- 주파수 관점 ERF 분석 프레임워크 구축
-- PhD 연구 가이드라인 작성 및 실험 설계 제안
-
-**저작**: 본 저장소의 모든 코드, 분석, 가이드는 Jung-woojin 이 작성하였습니다.
-
-*Last modified: 2026-04-03*
